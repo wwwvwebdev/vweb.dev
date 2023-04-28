@@ -1,0 +1,916 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap
+File Name: D:\Downloaded Web Sites\muffingroup.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Istok+Web:700|Playfair+Display|Poppins:300,500&subset=latin-ext
+File Name: D:\Downloaded Web Sites\muffingroup.com\css
+Content Type: text/css
+
+Uri: https://muffingroup.com/
+File Name: D:\Downloaded Web Sites\muffingroup.com\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/assets/css/ajax-loader.gif
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://muffingroup.com/assets/css/bootstrap-grid.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\bootstrap-grid.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/bootstrap-reboot.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\bootstrap-reboot.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/bootstrap.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/fonts/slick.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/css/fonts/slick.ttf
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://muffingroup.com/assets/css/fonts/slick.woff
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\fonts\slick.woff
+Content Type: application/x-font-woff
+
+Uri: https://muffingroup.com/assets/css/jquery.fullpage.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\jquery.fullpage.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/muffin.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\muffin.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/slick-theme.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/css/slick.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/honorable/awwwards.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\awwwards.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_black_left.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_black_left.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_black_left@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_black_left@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_black_right.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_black_right.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_black_right@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_black_right@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_green_left.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_green_left.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_green_left@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_green_left@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_green_right.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_green_right.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_green_right@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_green_right@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_silver_left.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_silver_left.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_silver_left@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_silver_left@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_silver_right.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_silver_right.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_silver_right@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_silver_right@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_white_left.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_white_left.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_white_left@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_white_left@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_white_right.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_white_right.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/honorable/ribbons/awwwards_honorable_white_right@2x.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\honorable\ribbons\awwwards_honorable_white_right@2x.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/Albert.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Albert.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/arrow.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/arrow2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\arrow2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/avatar1.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/avatar2.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\avatar2.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/avatar3.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/Bartek.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Bartek.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/contactIcon1.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\contactIcon1.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/contactIcon2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\contactIcon2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/favicon.ico
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://muffingroup.com/assets/images/Filip.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Filip.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/Konrad.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Konrad.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/linkIcon1.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\linkIcon1.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/linkIcon2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\linkIcon2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/linkIcon3.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\linkIcon3.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/logo.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/logo2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/logo3.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logo3.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/logo4.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logo4.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/logos/1.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\1.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/1h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\1h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/2.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\2.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/2h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\2h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/3.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\3.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/3h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\3h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/4.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\4.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/4h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\4h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/5.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\5.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/5h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\5h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/6.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\6.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/logos/6h.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\logos\6h.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/Lukasz.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Lukasz.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/Marcin.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Marcin.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/Michal.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Michal.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/nextCircle.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\nextCircle.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/1.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\1.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/3.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\3.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/4.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\4.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/5.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\5.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/6.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\6.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/7.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\7.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/8.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\8.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/pattern/9.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\pattern\9.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/Piotrek.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\Piotrek.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/images/plugins/1.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\1.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/10.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\10.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/11.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\11.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/12.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\12.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/13.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\13.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/14.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\14.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/15.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\15.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/16.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\16.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/2.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\2.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/3.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\3.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/4.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\4.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/5.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\5.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/6.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\6.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/7.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\7.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/8.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\8.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/plugins/9.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\plugins\9.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/prevCircle.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\prevCircle.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/quote1.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\quote1.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/quote2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\quote2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/scrollDown.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\scrollDown.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/slides/1.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\slides\1.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/slides/2.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\slides\2.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/slides/3.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\slides\3.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/slides/4.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\slides\4.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/slides/5.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\slides\5.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/websites.png
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\websites.png
+Content Type: image/png
+
+Uri: https://muffingroup.com/assets/images/whyIcon1.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\whyIcon1.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/whyIcon2.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\whyIcon2.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/whyIcon3.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\whyIcon3.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/whyIcon4.svg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\whyIcon4.svg
+Content Type: image/svg+xml
+
+Uri: https://muffingroup.com/assets/images/whyPhoto.jpg
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\images\whyPhoto.jpg
+Content Type: image/jpeg
+
+Uri: https://muffingroup.com/assets/js/bootstrap.min.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/jquery.fullpage.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\jquery.fullpage.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/jquery.min.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/jquery.parallax-scroll.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\jquery.parallax-scroll.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/modernizr.min.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/muffin.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\muffin.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/pathformer.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\pathformer.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/slick.min.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/tether.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\tether.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/assets/js/vivus.js
+File Name: D:\Downloaded Web Sites\muffingroup.com\assets\js\vivus.js
+Content Type: application/javascript
+
+Uri: https://muffingroup.com/betheme/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/assets/css/style.css?ver=26.8.c
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\assets\css\style.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/betheme/assets/css/twentytwenty.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\assets\css\twentytwenty.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/betheme/assets/fonts/fontawesome/fontawesome.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\assets\fonts\fontawesome\fontawesome.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/betheme/assets/fonts/mfn/icons.css
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\assets\fonts\mfn\icons.css
+Content Type: text/css
+
+Uri: https://muffingroup.com/betheme/bebuilder-blocks/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\bebuilder-blocks\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/bebuilder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\bebuilder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/accordion/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\accordion\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/alert/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\alert\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/article-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\article-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/before-after/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\before-after\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/blockquote/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\blockquote\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/blog-news/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\blog-news\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/blog-slider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\blog-slider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/blog-teaser/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\blog-teaser\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/blog/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\blog\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/button/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\button\index-1.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/button/?inline
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\button\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/call-to-action/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\call-to-action\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/chart/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\chart\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/clients-slider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\clients-slider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/clients/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\clients\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/code/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\code\index-1.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/code/?inline
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\code\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/column/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\column\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/contact-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\contact-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/content-link/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\content-link\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/content-wp/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\content-wp\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/countdown/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\countdown\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/counter-inline/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\counter-inline\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/counter/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\counter\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/divider-basic/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\divider-basic\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/divider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\divider\index-2.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/divider/?hr
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\divider\index-1.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/divider/?inline
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\divider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/dropcap/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\dropcap\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/fancy-divider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\fancy-divider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/fancy-heading/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\fancy-heading\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/fancy-link/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\fancy-link\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/faq/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\faq\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/feature-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\feature-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/feature-list/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\feature-list\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/flat-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\flat-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/google-font/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\google-font\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/heading/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\heading\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/helper/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\helper\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/highlight/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\highlight\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/hover-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\hover-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/hover-color/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\hover-color\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/how-it-works/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\how-it-works\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/icon-bar/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\icon-bar\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/icon-block/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\icon-block\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/icon-box-basic/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\icon-box-basic\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/icon-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\icon-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/icon/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\icon\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/idea/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\idea\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/image-gallery/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\image-gallery\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/image/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\image\index-1.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/image/?inline
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\image\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/info-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\info-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/list-basic/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\list-basic\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/list/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\list\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/lists/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\lists\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/map-advanced/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\map-advanced\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/map-basic/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\map-basic\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/offer-slider-full/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\offer-slider-full\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/offer-slider-thumb/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\offer-slider-thumb\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/opening-hours/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\opening-hours\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/our-team-list/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\our-team-list\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/our-team/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\our-team\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/photo-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\photo-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/placeholder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\placeholder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/popup/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\popup\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/portfolio-grid/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\portfolio-grid\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/portfolio-photo/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\portfolio-photo\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/portfolio-slider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\portfolio-slider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/portfolio/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/pricing-item/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\pricing-item\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/progress-bars/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\progress-bars\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/progress-icons/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\progress-icons\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/promo-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\promo-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/quick-fact/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\quick-fact\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/share-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\share-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/shop-slider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\shop-slider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/shop/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\shop\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/sidebar-widget/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\sidebar-widget\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/slider-plugin/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\slider-plugin\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/slider/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\slider\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/sliding-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\sliding-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/story-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\story-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/table/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\table\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/tabs/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\tabs\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/testimonials-list/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\testimonials-list\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/testimonials/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\testimonials\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/timeline/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\timeline\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/toggle/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\toggle\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/tooltip/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\tooltip\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/trailer-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\trailer-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/video/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\video\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/visual-editor/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\visual-editor\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/elements/zoom-box/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\elements\zoom-box\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/favicon.ico
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://muffingroup.com/betheme/features/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\features\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/header-builder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\header-builder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/loop-builder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\loop-builder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/popup-builder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\popup-builder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/prebuilt-websites/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\prebuilt-websites\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/reviews/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\reviews\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/theme-options/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\theme-options\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/betheme/woo-builder/
+File Name: D:\Downloaded Web Sites\muffingroup.com\betheme\woo-builder\index.htm
+Content Type: text/html
+
+Uri: https://muffingroup.com/blog/
+File Name: D:\Downloaded Web Sites\muffingroup.com\blog\index.htm
+Content Type: text/html
+
