@@ -153,7 +153,7 @@ a {
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateZ(0);
   z-index: 999;
-  background: #35e8c6;
+  background: #25d366;
   width: 40px;
   height: 40px;
   text-align: center;
@@ -243,7 +243,7 @@ a {
   right: 15px;
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateZ(0);
-  background: #35e8c6;
+  background: #25d366;
   width: 40px;
   height: 40px;
   text-align: center;
@@ -336,7 +336,7 @@ a {
   font-size: 16px;
 }
 .menuMobilePopup .menuMobilePopupContainer .menuMobilePopupMiddle .menuMobilePopupWindow ul li a:hover {
-  color: #35e8c6;
+  color: #25d366;
 }
 .sidebar {
   position: fixed;
@@ -486,7 +486,7 @@ a {
   width: 11px;
   top: 6px;
   height: 11px;
-  background: #35e8c6;
+  background: #25d366;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   -o-border-radius: 10px;
@@ -514,7 +514,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-homePage .buttonHome a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-homePage .buttonHome a .line {
   opacity: 1 !important;
@@ -524,7 +524,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-whyPage .buttonWhy a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-whyPage .buttonWhy a .line {
   opacity: 1 !important;
@@ -567,7 +567,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-clientsPage .buttonClients a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-clientsPage .buttonClients a .line {
   opacity: 1 !important;
@@ -577,7 +577,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-websitesPage .buttonWebsites a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-websitesPage .buttonWebsites a .line {
   opacity: 1 !important;
@@ -608,7 +608,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-premiumPage .buttonPremium a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-premiumPage .buttonPremium a .line {
   opacity: 1 !important;
@@ -618,7 +618,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-whoPage .buttonWho a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-whoPage .buttonWho a .line {
   opacity: 1 !important;
@@ -637,7 +637,7 @@ a {
   color: #ffffff !important;
 }
 .fp-viewing-contactPage .buttonContact a .circle {
-  border: solid 2px #35e8c6 !important;
+  border: solid 2px #25d366 !important;
 }
 .fp-viewing-contactPage .buttonContact a .line {
   opacity: 1 !important;
@@ -904,7 +904,7 @@ a {
   transition: 1.5s;
 }
 .clientsSection .headline .headlineMiddle h2 {
-  color: #35e8c6;
+  color: #25d366;
   font-family: 'Istok Web', sans-serif;
   font-weight: 700;
   font-size: 150px;
@@ -996,7 +996,7 @@ a {
   height: 40px !important;
   display: block !important;
   background: url(../images/prevCircle.svg) center center no-repeat;
-  border: solid 2px #35e8c6;
+  border: solid 2px #25d366;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
@@ -1018,7 +1018,7 @@ a {
   height: 40px !important;
   display: block !important;
   background: url(../images/nextCircle.svg) center center no-repeat;
-  border: solid 2px #35e8c6;
+  border: solid 2px #25d366;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
@@ -1086,7 +1086,7 @@ a {
   position: relative;
 }
 .websitesSection .content .number h2 {
-  color: #35e8c6;
+  color: #25d366;
   font-family: 'Istok Web', sans-serif;
   font-weight: 700;
   font-size: 150px;
@@ -1171,7 +1171,7 @@ a {
 .websitesSection .content .button a {
   display: inline-block;
   position: relative;
-  background: #35e8c6;
+  background: #25d366;
   padding: 15px 30px 14px 0;
   text-align: center;
   width: 220px;
@@ -1235,7 +1235,7 @@ a {
   opacity: 0.5;
 }
 .premiumSection .items .item .itemContainer .title {
-  color: #35e8c6;
+  color: #25d366;
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
@@ -1298,7 +1298,7 @@ a {
   font-size: 120px;
   font-family: 'Istok Web', sans-serif;
   font-weight: 700;
-  color: #35e8c6;
+  color: #25d366;
   padding-right: 40px;
   position: relative;
 }
@@ -1346,7 +1346,7 @@ a {
   font-size: 120px;
   font-family: 'Istok Web', sans-serif;
   font-weight: 700;
-  color: #35e8c6;
+  color: #25d366;
   padding-left: 40px;
   position: relative;
 }
@@ -1681,7 +1681,7 @@ a {
 .contactSection .button a {
   display: inline-block;
   position: relative;
-  background: #35e8c6;
+  background: #25d366;
   padding: 15px 30px 14px 0;
   text-align: center;
   width: 190px;
@@ -1867,7 +1867,7 @@ a {
 .muffinSlider .muffinSlide .headline .button a {
   display: inline-block;
   position: relative;
-  background: #35e8c6;
+  background: #25d366;
   padding: 15px 30px 14px 0;
   text-align: center;
   width: 190px;
@@ -1908,7 +1908,7 @@ a {
   animation-duration: 5s;
   display: block;
   height: 2px;
-  background: #35e8c6;
+  background: #25d366;
   animation-delay: 0.5s;
   animation-timing-function: linear;
 }
@@ -1917,7 +1917,7 @@ a {
   height: 40px !important;
   display: block !important;
   background: url(../images/prevCircle.svg) center center no-repeat;
-  border: solid 2px #35e8c6;
+  border: solid 2px #25d366;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
@@ -1943,7 +1943,7 @@ a {
   padding-left: 75px !important;
   display: block !important;
   background: url(../images/nextCircle.svg) 30px center no-repeat;
-  border: solid 2px #35e8c6;
+  border: solid 2px #25d366;
   -moz-border-radius: 30px;
   -webkit-border-radius: 30px;
   -o-border-radius: 30px;
@@ -2165,7 +2165,7 @@ a {
 }
 .preloaderWindow .preloaderContainer .preloaderMiddle .text {
   padding: 20px 0 0 0;
-  color: #35e8c6;
+  color: #25d366;
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
@@ -3759,7 +3759,7 @@ a {
     transition: 0.2s;
   }
   .contactSection .links .column a:hover {
-    color: #35e8c6;
+    color: #25d366;
   }
   .menuMobile {
     display: block;
